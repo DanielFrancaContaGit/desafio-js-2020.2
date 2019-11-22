@@ -15,3 +15,6 @@ Que tal fazer um player de áudio personalizado apenas com HTML5, CSS e JS?
 - [Constantes e Variáveis](https://gist.github.com/jrmmendes/51c5e833860fdc942d7f3e5f1fb17d3a#file-const-var-let-md)
 - [DOM e Queries com JS](https://gist.github.com/jrmmendes/51c5e833860fdc942d7f3e5f1fb17d3a#file-document-object-model-md)
 - [Eventos](https://gist.github.com/jrmmendes/51c5e833860fdc942d7f3e5f1fb17d3a#file-events-md)
+
+# Recursos
+- [MDN Web Docs](https://developer.mozilla.org/pt-BR)
