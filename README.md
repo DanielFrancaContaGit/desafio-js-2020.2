@@ -19,3 +19,4 @@ Que tal fazer um player de áudio personalizado apenas com HTML5, CSS e JS?
 
 # Recursos
 - [MDN Web Docs](https://developer.mozilla.org/pt-BR)
+- [Apresentação](https://docs.google.com/presentation/d/1ZUYimMA6R4No-m6OWY1xsF869duHi-bpaPchoBZr1Oc/edit?usp=sharing)
