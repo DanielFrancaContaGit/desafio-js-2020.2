@@ -10,6 +10,7 @@ O objetivo desse treinamento é mostrar os principais conceitos da linguagem jav
 # O Desafio
 Que tal fazer um player de áudio personalizado apenas com HTML5, CSS e JS?
 - Mockup: [Desafio JS](https://www.figma.com/file/UWCyOMrpFhyrVDiYHDS3By/desafio-js?node-id=0%3A1)
+- Exemplo básico: https://citi-player.netlify.com/
 
 # Gists
 - [Constantes e Variáveis](https://gist.github.com/jrmmendes/51c5e833860fdc942d7f3e5f1fb17d3a#file-const-var-let-md)
