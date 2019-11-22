@@ -12,4 +12,4 @@ Que tal fazer um player de áudio personalizado apenas com HTML5, CSS e JS?
 - Mockup: [Desafio JS](https://www.figma.com/file/UWCyOMrpFhyrVDiYHDS3By/desafio-js?node-id=0%3A1)
 
 # Gists
-[Aqui](https://gist.github.com/jrmmendes/51c5e833860fdc942d7f3e5f1fb17d3a) tem um resumo dos principais pontos para se usar JavaScript moderno.
+- [Constantes e Variáveis](https://gist.github.com/jrmmendes/51c5e833860fdc942d7f3e5f1fb17d3a#file-const-var-let-md)
