@@ -8,4 +8,4 @@ O objetivo desse treinamento é mostrar os principais conceitos da linguagem jav
 - Como programar orientado a objetos com classes ES6;
 
 # O Desafio
-Que tal fazer um player de áudio personalizado apenas com JS?
+Que tal fazer um player de áudio personalizado apenas com HTML5, CSS e JS?
