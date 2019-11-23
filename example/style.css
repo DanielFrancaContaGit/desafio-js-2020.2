@@ -1,0 +1,28 @@
+.player {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background: #F1F1F1;
+    position: relative;
+    padding: 1em;
+    margin: 1em;
+}
+
+.controls {
+    display: flex;
+    justify-content: center;
+}
+
+.action {
+    padding: 1em;
+}
+
+.progress-bar {
+    position: absolute;
+    background: red;
+    height: 1%;
+    width: 0%;
+    left: 0;
+    bottom: 0;
+}
