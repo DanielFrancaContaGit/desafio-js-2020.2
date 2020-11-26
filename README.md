@@ -9,8 +9,8 @@ O objetivo desse desafio é criar um player de musica com os seguintes requisito
  
  - botão de play 
  - botão de pause
- - botão para avançar a musica
- - botão para retroceder a musica
+ - botão para avançar a música
+ - botão para retroceder a música
  - barra de progresso  
 
   você terá que acrescentar 
