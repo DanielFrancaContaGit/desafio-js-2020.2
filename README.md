@@ -28,7 +28,9 @@ Você pode criar um player como o mockup de exemplo ou de qualquer outra forma q
 - Mockup: [Desafio JS](https://www.figma.com/file/UWCyOMrpFhyrVDiYHDS3By/desafio-js?node-id=0%3A1)
 - Exemplo básico: https://citi-player.netlify.com/
 
-Quando tiver tudo pronto, envie um email para `email` com o assunto `[ Desafio JS ] Seu Nome` e no conteúdo o repositório do seu projeto.
+Quando tiver tudo pronto, envie o link do seu projeto do github para este [forms:](https://docs.google.com/forms/d/e/1FAIpQLSeNduBNcD7SrSY8nvloKxd6sKXSHpqP4aN1Spk-arhMHp3RoA/viewform?usp=sf_link) 
+
+- [Form](https://docs.google.com/forms/d/e/1FAIpQLSeNduBNcD7SrSY8nvloKxd6sKXSHpqP4aN1Spk-arhMHp3RoA/viewform?usp=sf_link)
 
 # Gists
 - [Constantes e Variáveis](https://gist.github.com/jrmmendes/51c5e833860fdc942d7f3e5f1fb17d3a#file-const-var-let-md)
