@@ -15,7 +15,7 @@ O objetivo desse desafio é criar um player de musica com os seguintes requisito
 
   você terá que acrescentar 
  
- - uma barra de progresso que permita mudar o tempo atual da musica
+ - uma barra de progresso que permita mudar o tempo atual da música
 
 Conhecimentos necessários para conseguir fazer o desafio:
 
