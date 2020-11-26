@@ -2,6 +2,7 @@
 <img src="https://i.imgur.com/jOeqrIs.png"/>
 </p>
 
+# O Desafio
 O objetivo desse desafio é criar um player de musica com os seguintes requisitos:
  
  ja existem no exemplo 
@@ -16,15 +17,14 @@ O objetivo desse desafio é criar um player de musica com os seguintes requisito
  
  - uma barra de progresso que permita mudar o tempo atual da musica
 
-
 Conhecimentos necessários para conseguir fazer o desafio:
 
 - Arrays e iteração com funções;
 - DOM: Eventos, Listeners, métodos de queries e manipulação de elementos;
 - Como programar orientado a objetos com classes ES6;
 
-# O Desafio
-Que tal fazer um player de áudio personalizado apenas com HTML5, CSS e JS?
+Você pode criar um player como o mockup de exemplo ou de qualquer outra forma que preferir, sera permitido copiar o código deste repositório e usa-lo como base para o seu desafio 
+
 - Mockup: [Desafio JS](https://www.figma.com/file/UWCyOMrpFhyrVDiYHDS3By/desafio-js?node-id=0%3A1)
 - Exemplo básico: https://citi-player.netlify.com/
 
